@@ -1,0 +1,3 @@
+These are points to discuss with my mentor
+1. How do we let the console open sublime when I input <sublime> in the console ? 
+2. How do I do the project number two to write a project case of pizzeria ?
